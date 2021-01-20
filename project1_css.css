@@ -1,0 +1,260 @@
+body {
+    margin: 0;
+    background: #fff;
+    color: #202124;
+}
+
+.googleImg{
+    width: 92px;
+    height: 30px;
+    padding-left: 22px;
+    padding-top: 35px;
+    display: inline-block;
+}
+
+.searchBox{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 670px;
+    height: 44px;
+    line-height: 44px;
+    padding-left: 20px;
+    margin-left: 44px;
+    margin-top: 25px;
+    position: absolute;
+    box-shadow: 1px 1px 2px 1px rgb(221, 220, 220);
+    border: 1px solid whitesmoke;
+    border-radius: 30px;
+    display: inline-block;
+}
+
+.searchBoxImg{
+    position: absolute;
+    margin-top: 4px;
+    margin-left: 451px;
+    width: 165px;
+    height: 34px;
+    display: inline-block;
+}
+
+.accImg{
+    position: absolute;
+    margin-top: 26px;
+    margin-left: 1117px;
+    width: 103px;
+    height: 44px;
+    display: inline-block;
+}
+
+.tools{
+    color:rgb(116, 115, 115);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 88%;
+    margin-left: 173px;
+    display: inline-block;
+}
+
+.toolsAll{
+    margin-left: 4px;
+    margin-right: 22px;
+    display: inline-block;
+}
+
+.resultsFound{
+    color:rgb(116, 115, 115);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 88%;
+    margin-left: 173px;
+    margin-top: 6px;
+    display: inline-block;
+}
+
+.linkSection{
+    font-size: 87%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 21px;
+    margin-left: 173px;
+}
+
+.leftLittleLink{
+    color:rgb(50, 50, 167);
+    font-size: 150%;
+    margin-right: 170px;
+}
+
+.rightLittleLink{
+    color:rgb(50, 50, 167);
+    font-size: 150%;
+}
+
+.leftLinkInfo{
+    position:absolute; 
+    margin-top:5px; 
+}
+
+.rightLinkInfo{
+    position:absolute; 
+    margin-top:26px; 
+}
+
+.linkSpaceRL{
+    display:inline-block;
+    margin-right: 100px; 
+}
+
+.linkSpaceUD{
+    width: 500px;
+    height: 65px; 
+    margin-right: 100px;
+}
+
+.newsDiv{
+    display: inline-block;
+    width: 210px;
+    height: 280px;
+    border-radius: 7px;
+    border: 1px solid rgb(212, 212, 212);
+}
+
+.newsDivImg{
+    width: 210px;
+    border-radius: 7px 7px 0 0;
+    display: block;
+}
+
+.newsDivInfo{
+    display:block;
+    position:absolute; 
+    margin-left: 15px; 
+    margin-top: 15px;
+}
+
+.newsDivCircle{
+    color:rgb(104, 103, 103);
+    background-color: white;
+    box-shadow: 1px 1px 2px 1.5px rgb(221, 220, 220);
+    font-size: 100%;
+    position:absolute;
+    width: 35px;
+    height: 35px;
+    border-radius: 35px;
+    border: 1px solid rgb(212, 212, 212);
+    text-align: center;
+    line-height: 35px;
+    margin-left: 193px;
+    margin-top: 10px;
+}
+
+.newsDivShowAll{
+    margin-top: 10px;
+    display: inline-block;
+    width: 655px;
+}
+
+.newsDivShowAllEllipse{
+    background-color: white;
+    color:blue;
+    line-height: 30px;
+    position: absolute;
+    display: inline-block;
+    width: 280px;
+    height: 30px;
+    border-radius: 20px;
+    border: 1px solid rgb(212, 212, 212);
+    margin-left: 185px;
+}
+
+.video{
+    margin-top: 10px;
+    width: 655px;
+    height: 80px;
+    border-top: 1px solid rgb(231, 231, 231);
+}
+
+.videoImg{
+    display: inline-block;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.videoInfo{
+    font-size: 130%;
+    color:rgb(50, 50, 167); 
+    display: inline-block;
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.linkHeader{
+    color:rgb(50, 50, 167); 
+    font-size: 160%; 
+    position:absolute;
+    margin-top: 8px;
+}
+
+.linkP{
+    display:inline-block; 
+    position:absolute; 
+    margin-top:25px; 
+    width: 600px; 
+    color:rgb(104, 103, 103);
+}
+
+.netflixSearchRelated{
+    color:rgb(50, 50, 167); 
+    font-weight: bold;
+    width: 120px;
+    height: 100px;
+}
+
+.searchPageImg{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 310px;
+}
+
+.searchPageNum{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    font-size: 90%;
+    color:rgb(80, 135, 199); 
+    margin-top: 67px;
+    margin-left: 370px;
+}
+
+.footerPosition{
+    position: absolute;
+    margin-top: 110px;
+    background-color: rgb(241, 241, 241);
+    border: 1px solid rgb(212, 212, 212);
+    width: 1347.49px;
+    height: 40px;
+}
+
+.footer{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 92%;
+    color:rgb(104, 103, 103);
+    line-height: 40px;
+    margin-left: 170px;
+}
+
+.netflixDiv{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 22px;
+    margin-left: 888px;
+    border: 1px solid rgb(212, 212, 212);
+    border-radius: 8px;
+    position: absolute;
+    height: 1020px;
+    width: 370px;
+}
+
+.netflixInfoDiv{
+    color:rgb(78, 78, 78);
+    font-size: 90%;
+    margin-top: 15px;
+    margin-left: 15px;
+    width: 355px;
+    height: 833px;
+}
